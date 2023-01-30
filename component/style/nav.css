@@ -1,0 +1,20 @@
+.nav{
+    height: 10vh;
+    width: 200vh;
+    background:brown; 
+}
+.nav li {
+    float: left;
+    list-style: none;
+}
+.nav a {
+    list-style: none;
+    height: 50px;
+    line-height: 50px;
+    font-size: 1rem;
+    font-weight: 550;
+    display: block;
+    padding: 5px 35px;
+    color: red;
+    text-decoration:gainsboro;
+}

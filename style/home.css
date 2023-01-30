@@ -1,0 +1,45 @@
+.home{
+    display: flex;
+    width: 200vh;
+    height: 95vh;
+    background:burlywood;
+}
+.box-left{
+    height: 100%;
+    width: 70%;
+    background-size: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.box-left h1{
+    color: blue;
+    font-size: 2rem;
+
+}
+
+.box-left p{
+    color: red;
+    position: relative;
+    font-size: 1rem;    
+}
+
+.box-left img{
+    width: 50vh;
+    border-radius: 50px;
+}
+.box-right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box-right h1{
+    color: blue;
+    font-size: 3rem; 
+}
+.box-right img{
+    width: 90vh;
+    border-radius: 50%;
+}
+
